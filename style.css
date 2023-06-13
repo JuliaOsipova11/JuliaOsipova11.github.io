@@ -1,0 +1,52 @@
+   body {
+       background: url(https://img.freepik.com/free-vector/detailed-hand-painted-pink-watercolour-background_1048-17039.jpg?w=826&t=st=1686657055~exp=1686657655~hmac=d33cf7ba5816f675853ecc3db3b92301af7049bd89ab3f058e7b0a9eae644519);
+       padding: 5px;
+       margin: 5px 20px 5px 20px;
+   }
+
+   div {
+       background-color: aqua;
+   }
+
+   h1 {
+    color: darkslategrey;  
+    background-color: hotpink;
+    padding: 9px;
+    text-align: center;
+   }
+
+    nav {
+        margin: 5px;
+   }
+
+   nav a{
+    background-color:plum;
+    margin: 3 px;
+    padding: 3px;
+    color:black;
+    text-decoration: none;
+    border-radius: 2px;
+   }
+
+   nav a:hover {
+        background-color: darkmagenta;
+   }
+
+   img:hover {
+        outline: 3px solid rosybrown;
+   }
+
+   .firstText {
+        color: red;
+   }
+
+   .textImg {
+        float: left;
+        margin-right: 10px;
+        margin-left: 10px;
+   }
+
+   /* div {
+        display: flex;
+
+   } */
